@@ -7,8 +7,8 @@
   <li>UniTask</li>
   <li>Unity 2022v</li>
    <ul>
-     <li>Unity Addressables</li>
      <li>Unity UI</li>
+     <li>Unity Addressables</li>
      <li>Unity Localization</li>
    </ul>
   <li>.Net C#</li>
